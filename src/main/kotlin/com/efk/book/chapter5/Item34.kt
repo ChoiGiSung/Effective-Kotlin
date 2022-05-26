@@ -18,4 +18,5 @@ fun main(){
         name = "메시",
         addr = "파리"
     )
+
 }
